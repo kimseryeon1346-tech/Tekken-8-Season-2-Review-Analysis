@@ -1,0 +1,25 @@
+﻿analysis_group,period,recommendation_group,n,tag_id,tag_name,tag_count,tag_share
+PRE_Recommended,PRE,Recommended,118,T01,Offensive_Pressure,4,0.03389830508474576
+PRE_Recommended,PRE,Recommended,118,T02,Defense_Movement,1,0.00847457627118644
+PRE_Recommended,PRE,Recommended,118,T03,Character_Homogenization,2,0.01694915254237288
+PRE_Recommended,PRE,Recommended,118,T04,Heat_System,4,0.03389830508474576
+PRE_Recommended,PRE,Recommended,118,T05,Moveset_Balance_Issue,4,0.03389830508474576
+PRE_Recommended,PRE,Recommended,118,T06,Dev_Direction_Trust,1,0.00847457627118644
+PRE_Not_Recommended,PRE,Not Recommended,75,T01,Offensive_Pressure,24,0.32
+PRE_Not_Recommended,PRE,Not Recommended,75,T02,Defense_Movement,14,0.18666666666666668
+PRE_Not_Recommended,PRE,Not Recommended,75,T03,Character_Homogenization,2,0.02666666666666667
+PRE_Not_Recommended,PRE,Not Recommended,75,T04,Heat_System,13,0.17333333333333334
+PRE_Not_Recommended,PRE,Not Recommended,75,T05,Moveset_Balance_Issue,8,0.10666666666666667
+PRE_Not_Recommended,PRE,Not Recommended,75,T06,Dev_Direction_Trust,11,0.14666666666666667
+POST_Recommended,POST,Recommended,274,T01,Offensive_Pressure,12,0.043795620437956206
+POST_Recommended,POST,Recommended,274,T02,Defense_Movement,14,0.051094890510948905
+POST_Recommended,POST,Recommended,274,T03,Character_Homogenization,12,0.043795620437956206
+POST_Recommended,POST,Recommended,274,T04,Heat_System,4,0.014598540145985401
+POST_Recommended,POST,Recommended,274,T05,Moveset_Balance_Issue,9,0.032846715328467155
+POST_Recommended,POST,Recommended,274,T06,Dev_Direction_Trust,13,0.04744525547445255
+POST_Not_Recommended,POST,Not Recommended,3767,T01,Offensive_Pressure,698,0.1852933368728431
+POST_Not_Recommended,POST,Not Recommended,3767,T02,Defense_Movement,697,0.18502787363950093
+POST_Not_Recommended,POST,Not Recommended,3767,T03,Character_Homogenization,410,0.10883992567029467
+POST_Not_Recommended,POST,Not Recommended,3767,T04,Heat_System,253,0.06716219803557208
+POST_Not_Recommended,POST,Not Recommended,3767,T05,Moveset_Balance_Issue,306,0.08123174940270772
+POST_Not_Recommended,POST,Not Recommended,3767,T06,Dev_Direction_Trust,486,0.12901513140430051

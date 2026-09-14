@@ -1,0 +1,20 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.json
+.idea/
+.vscode/
+
+# Raw review and API collection data are intentionally excluded.
+data/raw/
+raw/
+outputs/raw/
+data/source_reviews/

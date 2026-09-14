@@ -1,0 +1,11 @@
+﻿check,passed,detail
+clean_review_count,True,4234
+recommendationid_unique,True,0
+period_labels_valid,True,"[""POST"", ""PRE""]"
+recommendation_labels_valid,True,"[""Not Recommended"", ""Recommended""]"
+tag_values_binary,True,all tag columns
+issue_tag_count_reconciles,True,row-wise tag sum
+pre_post_shares_in_range,True,0 <= share <= 1
+recommendation_shares_in_range,True,0 <= share <= 1
+percentage_point_change_reconciles,True,100 * (POST_share - PRE_share)
+input_hashes_unchanged,True,all analysis inputs

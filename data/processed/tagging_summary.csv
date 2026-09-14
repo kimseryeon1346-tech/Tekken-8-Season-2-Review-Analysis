@@ -1,0 +1,31 @@
+﻿coverage_group,n,tag_id,tag_name,tag_count,tag_share
+Overall,4234,T01,Offensive_Pressure,738,0.17430325932923948
+Overall,4234,T02,Defense_Movement,726,0.17146905999055267
+Overall,4234,T03,Character_Homogenization,426,0.10061407652338214
+Overall,4234,T04,Heat_System,274,0.06471421823334908
+Overall,4234,T05,Moveset_Balance_Issue,327,0.07723193197921586
+Overall,4234,T06,Dev_Direction_Trust,511,0.1206896551724138
+PRE,193,T01,Offensive_Pressure,28,0.14507772020725387
+PRE,193,T02,Defense_Movement,15,0.07772020725388601
+PRE,193,T03,Character_Homogenization,4,0.02072538860103627
+PRE,193,T04,Heat_System,17,0.08808290155440414
+PRE,193,T05,Moveset_Balance_Issue,12,0.06217616580310881
+PRE,193,T06,Dev_Direction_Trust,12,0.06217616580310881
+POST,4041,T01,Offensive_Pressure,710,0.17569908438505322
+POST,4041,T02,Defense_Movement,711,0.1759465478841871
+POST,4041,T03,Character_Homogenization,422,0.10442959663449641
+POST,4041,T04,Heat_System,257,0.06359811927740658
+POST,4041,T05,Moveset_Balance_Issue,315,0.0779510022271715
+POST,4041,T06,Dev_Direction_Trust,499,0.123484286067805
+Recommended,392,T01,Offensive_Pressure,16,0.04081632653061224
+Recommended,392,T02,Defense_Movement,15,0.03826530612244898
+Recommended,392,T03,Character_Homogenization,14,0.03571428571428571
+Recommended,392,T04,Heat_System,8,0.02040816326530612
+Recommended,392,T05,Moveset_Balance_Issue,13,0.03316326530612245
+Recommended,392,T06,Dev_Direction_Trust,14,0.03571428571428571
+Not Recommended,3842,T01,Offensive_Pressure,722,0.18792295679333682
+Not Recommended,3842,T02,Defense_Movement,711,0.18505986465382612
+Not Recommended,3842,T03,Character_Homogenization,412,0.10723581467985424
+Not Recommended,3842,T04,Heat_System,266,0.06923477355543987
+Not Recommended,3842,T05,Moveset_Balance_Issue,314,0.08172826652785008
+Not Recommended,3842,T06,Dev_Direction_Trust,497,0.12935970848516398

@@ -1,0 +1,11 @@
+﻿keyword,validation_type,checked,TP,FP,UNSURE,classification,proposed_tag,validation_note
+devs,core_45,5,5,0,0,Conditional,Dev_Direction_Trust,5건 모두 개발 방향·소통·신뢰 비판 문맥의 TP였지만 devs 단독 표현은 긍정·중립 사용도 가능하므로 불신·무시·방향성 표현과 결합할 때만 사용한다.
+heat,core_45,5,5,0,0,Issue,Heat_System,"5건 모두 Heat 시스템의 plus frame, 공격 압박, 50/50, 지속시간 또는 표현 훼손을 직접 지칭해 고유 시스템 이슈 식별력이 높다."
+character,core_45,5,5,0,0,Conditional,Character_Homogenization,5건 모두 캐릭터 획일화·밸런스·아키타입 변화 문맥의 TP였지만 character 단독 언급은 일반적이므로 balance/identity/same/50-50 등 조건이 필요하다.
+characters,core_45,5,5,0,0,Conditional,Character_Homogenization,5건 모두 사람이 TP로 판정했으나 밸런스·획일화뿐 아니라 잠긴 DLC 캐릭터 문맥도 포함한다. characters 단독으로 하나의 gameplay issue를 확정할 수 없다.
+moves,core_45,5,5,0,0,Conditional,Moveset_Balance_Issue,"5건 모두 공격 강화, plus frame/off-axis, 버그·시각 혼란·강제 50/50, 핵심 기술 삭제 문맥의 TP였지만 moves 자체는 긍정·중립 사용이 가능해 조건부로 사용한다."
+changes,core_45,5,5,0,0,Context,,5건 모두 Season 2 변경을 가리키는 TP였지만 구체적인 문제 유형을 단독으로 식별하지 못해 업데이트 맥락 역할로만 사용한다.
+patch,core_45,5,5,0,0,Context,,5건 모두 패치 비판 문맥의 TP였지만 patch는 사건·시점 표지이며 이슈 내용은 주변 표현이 결정한다.
+season,core_45,5,5,0,0,Context,,5건 모두 Season 2 문맥의 TP였지만 season은 분석 이벤트의 시점·버전 문맥을 제공할 뿐 독립 gameplay issue가 아니다.
+fighting,core_45,5,5,0,0,Context,,5건 모두 관련 문맥의 TP였지만 장르·비교 대상으로 폭넓게 사용되어 특정 이슈를 식별하지 못한다. Conditional tag keyword보다 장르 Context가 적절하다.
+defense,supplemental_5,5,5,0,0,Issue,Defense_Movement,"POST 비추천에서 정확 단어 defense가 304/3,766건(8.07%), Frequency 20위, TF-IDF 19위였고 supplemental 5건 모두 실제 방어 약화·선택지 감소·공격 우위 문맥의 TP였다. 방어 gameplay 축을 직접 특정하므로 Issue로 사용한다."

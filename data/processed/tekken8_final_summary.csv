@@ -1,0 +1,14 @@
+﻿metric,value,unit,note
+core_manual_validation_checked,45.0,reviews,9 keywords x 5
+defense_supplemental_checked,5.0,reviews,5/5 TP
+clean_review_count,4234.0,reviews,PRE + POST
+PRE_review_count,193.0,reviews,clean window
+POST_review_count,4041.0,reviews,clean window
+PRE_recommended_rate,0.6113989637305699,share,Recommended / PRE
+POST_recommended_rate,0.0678049987626825,share,Recommended / POST
+recommended_rate_change,-54.35939649678873,percentage_points,POST minus PRE
+issue_dictionary_tag_count,6.0,tags,v0.2
+reviews_with_any_issue_tag,1403.0,reviews,At least one v0.2 issue tag
+top_absolute_share_change_1,9.822634063030108,percentage_points,Defense_Movement
+top_absolute_share_change_2,8.370420803346015,percentage_points,Character_Homogenization
+top_absolute_share_change_3,6.130812026469619,percentage_points,Dev_Direction_Trust
